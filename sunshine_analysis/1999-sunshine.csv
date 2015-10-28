@@ -93,17 +93,17 @@ Carleton University,WATT,DUNCAN,"VP, Finance & Administration","$139,003.00",$0.
 Carleton University,WILLIAMS,KENNETH,Faculty Member,"$105,050.00",$0.00
 Carleton University,WILSON,STEPHEN,Faculty Member,"$100,028.00",$0.00
 Carleton University,WOODSIDE,C. MURRAY,Faculty Member,"$101,971.00",$0.00
-Huntington University,AITKEN,BRIAN,Professor,"$102,212.00",$296.00
-Huntington University,MACQUEEN,KENNETH,President-Principal,"$101,441.00",$296.00
-King's College,GORDON,KENNETH,"Assoc. Prof. / Dir., School of Soc. Work","$110,198.00","$1,154.00"
-King's College,KILLAN,GERALD,Principal,"$132,050.00","$9,289.00"
-King's College,MARINO,ROBERT,Associate Professor,"$103,282.00","$1,154.00"
-King's College,MCMAHON,PETER,Associate Professor,"$104,417.00","$1,154.00"
-King's College,MUELLER,PHILIP,Associate Professor,"$133,883.00","$1,154.00"
-King's College,MULCAHY,GLORIA,Associate Professor,"$100,790.00","$1,154.00"
-King's College,SNYDER,JOHN,Academic Dean,"$132,086.00","$1,154.00"
-King's College,TROJCAK,RONALD,Associate Professor,"$117,554.00","$1,154.00"
-King's College,WEBB,PAUL,Associate Professor,"$103,913.00","$1,162.00"
+Laurentian University,AITKEN,BRIAN,Professor,"$102,212.00",$296.00
+Laurentian University,MACQUEEN,KENNETH,President-Principal,"$101,441.00",$296.00
+University of Western Ontario,GORDON,KENNETH,"Assoc. Prof. / Dir., School of Soc. Work","$110,198.00","$1,154.00"
+University of Western Ontario,KILLAN,GERALD,Principal,"$132,050.00","$9,289.00"
+University of Western Ontario,MARINO,ROBERT,Associate Professor,"$103,282.00","$1,154.00"
+University of Western Ontario,MCMAHON,PETER,Associate Professor,"$104,417.00","$1,154.00"
+University of Western Ontario,MUELLER,PHILIP,Associate Professor,"$133,883.00","$1,154.00"
+University of Western Ontario,MULCAHY,GLORIA,Associate Professor,"$100,790.00","$1,154.00"
+University of Western Ontario,SNYDER,JOHN,Academic Dean,"$132,086.00","$1,154.00"
+University of Western Ontario,TROJCAK,RONALD,Associate Professor,"$117,554.00","$1,154.00"
+University of Western Ontario,WEBB,PAUL,Associate Professor,"$103,913.00","$1,162.00"
 Lakehead University,ANDERSON,FREDRICK J.,Professor,"$100,151.94",$830.84
 Lakehead University,BROWN,KENNETH M.,Professor,"$100,151.94",$830.82
 Lakehead University,DADGOSTAR,BAHRAM B.,"Dean, Faculty of Business Administration","$100,630.24","$1,325.97"
@@ -423,77 +423,77 @@ Queen's University,WIENS,PAUL,Chief Librarian,"$115,603.12",$393.90
 Queen's University,WILLIAMS,THOMAS R,"Prof, Sch. of Policy Stud. & Fac. of Ed","$148,032.96",$330.36
 Queen's University,WILSON,C RUTH,"Dept Head / Professor, Family Medicine","$104,238.00",$393.90
 Queen's University,YAGI,STANLEY S,"Director, Information Technology","$111,079.44",$448.43
-Ryerson Polytechnic University,ALEXOPOULOS,CHRISTOS,"Chair, Math, Physics & Computer Science","$100,071.58",$618.45
-Ryerson Polytechnic University,ALLEN,LARISSA,"Executive Director, Human Resources","$118,750.77",$703.62
-Ryerson Polytechnic University,ALNWICK,KEITH,Registrar,"$100,627.38",$642.00
-Ryerson Polytechnic University,ASPEVIG,KENNETH,"Dean, Faculty of Arts","$109,122.90",$694.00
-Ryerson Polytechnic University,BAILEY,KIRK,"Professor, Business Management","$119,673.09",$552.31
-Ryerson Polytechnic University,BOCTOR,STALIN,"Assoc. Dean, Fac. of Eng. & App. Science","$105,195.17",$646.93
-Ryerson Polytechnic University,BOOTH,MARILYNN,"Dean, Continuing Education","$120,425.12",$767.91
-Ryerson Polytechnic University,BOWEN,STANLEY,"Dir., Faculty Aff., Business Mgt","$113,723.05",$742.30
-Ryerson Polytechnic University,BRITNELL,JUDITH,"Professor, Nursing","$105,077.09",$540.51
-Ryerson Polytechnic University,BUCKBY,MARGARET,"Professor, Math, Physics & Computer Scienc","$104,899.10",$493.66
-Ryerson Polytechnic University,CLARKE,DOUGLAS,"Professor, Business Management","$110,045.29",$472.55
-Ryerson Polytechnic University,DEUTSCH,ESTHER,"Professor, Business Management","$135,385.62",$540.26
-Ryerson Polytechnic University,DEWSON,MICHAEL,"Vice President, Faculty Affairs","$133,157.93",$811.43
-Ryerson Polytechnic University,DIMITRIU,JUDITH,"Professor, Mechanical Engineering","$104,629.88",$524.10
-Ryerson Polytechnic University,EASTON,JOHN,"Director, Cooperative Education Office","$108,541.96",$604.36
-Ryerson Polytechnic University,EVERATT,RICK,Network Analyst,"$103,443.49",$173.95
-Ryerson Polytechnic University,GIBSON,VIVIAN,"Professor, IT Management","$105,873.27",$559.79
-Ryerson Polytechnic University,GRAYSON,LINDA,"VP, Administration & Student Affairs","$143,194.57",$884.88
-Ryerson Polytechnic University,JENSEN,KNUD,"Professor, Business Management","$103,332.46",$561.07
-Ryerson Polytechnic University,JOHNSTON,DAVID,"Professor, Interior Design","$106,433.30",$532.40
-Ryerson Polytechnic University,JONES,BRIAN,"Professor, Occupational & Public Health","$112,051.59",$579.71
-Ryerson Polytechnic University,JONES,KENNETH,"Director, CSCA","$116,533.19",$724.94
-Ryerson Polytechnic University,KARIM,SHEIKH,"Professor, Electrical Engineering","$103,024.59",$525.90
-Ryerson Polytechnic University,KEEBLE,JON,"Professor, Radio and Television Arts","$108,037.89",$565.01
-Ryerson Polytechnic University,KILNER,THOMAS,"Professor, Math, Physics & Computer Scienc","$106,216.91",$593.00
-Ryerson Polytechnic University,KURYS,ROBERT,"Professor, Business Management","$104,664.79",$594.98
-Ryerson Polytechnic University,KUSHNIR,VICTOR,"Professor, Math, Physics & Computer Scienc","$120,458.08",$592.62
-Ryerson Polytechnic University,LAJEUNESSE,CLAUDE,President,"$189,171.20","$20,635.18"
-Ryerson Polytechnic University,LAN-HING-FUNG,ALAIN,"Professor, Math, Physics & Computer Scienc","$104,679.79",$555.67
-Ryerson Polytechnic University,LAVERY,ROBERT,"Professor, Math, Physics & Computer Scienc","$105,449.54",$545.83
-Ryerson Polytechnic University,LEA,JOHN,"Professor, Mechanical Engineering","$100,533.47",$599.96
-Ryerson Polytechnic University,LEMIEUX,LARRY,"Assistant Director, IT Support","$106,760.62",$227.80
-Ryerson Polytechnic University,LEMIEUX,RENEE,"Director, Comp & Communications Services","$100,261.66",$641.45
-Ryerson Polytechnic University,LESSER,BRIAN,"Assist. Director, Teaching Tech. Support","$105,345.46",$207.96
-Ryerson Polytechnic University,LEVINE,IRA,"Dean, Faculty Applied Arts","$103,926.54",$661.37
-Ryerson Polytechnic University,LUK,PETER,"Professor, Business Management","$100,264.75",$545.17
-Ryerson Polytechnic University,MACDONALD,PAUL,"Professor, Civil Engineering","$105,658.98",$582.55
-Ryerson Polytechnic University,MAGUIRE,LEE,"Associate Dean, Business Management","$116,779.96",$670.08
-Ryerson Polytechnic University,MALINSKI,RICHARD,"Program Director, Distance Education","$108,098.38",$639.67
-Ryerson Polytechnic University,MASTORAS,ANASTASE,"Professor, Math, Physics & Computer Scienc","$104,443.97",$499.20
-Ryerson Polytechnic University,MCBURNEY,A. MARK,"Professor, Arch. & Landscape Arch.","$102,174.87",$577.35
-Ryerson Polytechnic University,MCKESSOCK,DOUGLAS,"Professor, Business Management","$112,957.89",$562.02
-Ryerson Polytechnic University,MENDELSON,RENA,"Associate Vice President, Academic","$118,456.50",$767.26
-Ryerson Polytechnic University,MOCK,DENNIS,"Vice President, Academic","$147,045.69",$871.50
-Ryerson Polytechnic University,MOSS,RAYMOND,"Professor, Business Management","$107,491.88",$506.51
-Ryerson Polytechnic University,MURPHY,MICHAEL,"Director, Rogers Communications Centre","$103,658.92",$541.59
-Ryerson Polytechnic University,NAGENDRA,BHASKAR,"Professor, Math, Physics & Comp.Sci.","$110,946.93",$590.54
-Ryerson Polytechnic University,NORTHWOOD,DEREK,"Dean, Fac. of Eng. & Applied Sci.","$124,283.37",$791.19
-Ryerson Polytechnic University,O'CONNELL,JOAN,"Professor, IT Management","$105,010.70",$552.01
-Ryerson Polytechnic University,PRABHU,SHIVANANDA,"Professor, Electrical Engineering","$102,848.70",$233.44
-Ryerson Polytechnic University,RADCHENKO,SANDRA,"Professor, App. Chem. & Biological Sci.","$105,778.04",$586.14
-Ryerson Polytechnic University,RADFORD,JACK,"Acting Dean, Faculty of Business","$139,250.01",$95.64
-Ryerson Polytechnic University,RYFF,PETER,"Professor, Electrical Engineering","$108,073.04",$624.17
-Ryerson Polytechnic University,SALVAS,ROLAND,"Chair, Civil Engineering","$104,698.66",$628.16
-Ryerson Polytechnic University,SANDYS,JUDITH,"Dean, Faculty of Community Services","$105,080.10",$670.99
-Ryerson Polytechnic University,SCHLANGER,DAVID,"Professor, Business Management","$104,182.27",$528.22
-Ryerson Polytechnic University,SHONIKER,THOMAS,"Professor, Business Management","$129,867.26",$613.72
-Ryerson Polytechnic University,SLAVINSKI,GEORGE,"Professor, Hospitality & Tourism Mgt","$100,382.85",$592.62
-Ryerson Polytechnic University,SMITH,ALLEN DARRYL,"Professor, Business Management","$116,970.46",$525.90
-Ryerson Polytechnic University,STEWART,MARY,"Professor, Mechanical Engineering","$102,963.04",$480.74
-Ryerson Polytechnic University,STRAHLENDORF,PETER,"Assoc. Prof., Occupational & Public Hlth","$100,330.83",$458.57
-Ryerson Polytechnic University,SWIRSKY,RONALD,"Director, University Planning","$139,249.87",$468.47
-Ryerson Polytechnic University,TOWSLEY,CLARENCE,"Professor, Business Management","$111,286.68",$539.37
-Ryerson Polytechnic University,TRUBIC,JOSEPH,"Professor, Business Management","$107,215.46",$526.00
-Ryerson Polytechnic University,TUSHINGHAM,THOMAS,"Professor, Economics","$101,091.59",$579.71
-Ryerson Polytechnic University,VALIN,EDMOND,Secretary to the Board of Governors,"$108,098.53",$194.22
-Ryerson Polytechnic University,WADE,RICHARD,"Professor, Hospitality & Tourism Mgt","$103,784.49",$618.45
-Ryerson Polytechnic University,WARGO,J. ALAN,"Chair, History","$109,028.57",$630.41
-Ryerson Polytechnic University,WHITWORTH,VIVIENNE,"Professor, App. Chem. & Biol. Science","$109,204.53",$243.55
-Ryerson Polytechnic University,WILSON,PETER,"Professor, Business Management","$104,577.39",$525.90
-Ryerson Polytechnic University,WINTON,JANICE,"Executive Director, Financial Services","$106,238.10",$689.64
+Ryerson University,ALEXOPOULOS,CHRISTOS,"Chair, Math, Physics & Computer Science","$100,071.58",$618.45
+Ryerson University,ALLEN,LARISSA,"Executive Director, Human Resources","$118,750.77",$703.62
+Ryerson University,ALNWICK,KEITH,Registrar,"$100,627.38",$642.00
+Ryerson University,ASPEVIG,KENNETH,"Dean, Faculty of Arts","$109,122.90",$694.00
+Ryerson University,BAILEY,KIRK,"Professor, Business Management","$119,673.09",$552.31
+Ryerson University,BOCTOR,STALIN,"Assoc. Dean, Fac. of Eng. & App. Science","$105,195.17",$646.93
+Ryerson University,BOOTH,MARILYNN,"Dean, Continuing Education","$120,425.12",$767.91
+Ryerson University,BOWEN,STANLEY,"Dir., Faculty Aff., Business Mgt","$113,723.05",$742.30
+Ryerson University,BRITNELL,JUDITH,"Professor, Nursing","$105,077.09",$540.51
+Ryerson University,BUCKBY,MARGARET,"Professor, Math, Physics & Computer Scienc","$104,899.10",$493.66
+Ryerson University,CLARKE,DOUGLAS,"Professor, Business Management","$110,045.29",$472.55
+Ryerson University,DEUTSCH,ESTHER,"Professor, Business Management","$135,385.62",$540.26
+Ryerson University,DEWSON,MICHAEL,"Vice President, Faculty Affairs","$133,157.93",$811.43
+Ryerson University,DIMITRIU,JUDITH,"Professor, Mechanical Engineering","$104,629.88",$524.10
+Ryerson University,EASTON,JOHN,"Director, Cooperative Education Office","$108,541.96",$604.36
+Ryerson University,EVERATT,RICK,Network Analyst,"$103,443.49",$173.95
+Ryerson University,GIBSON,VIVIAN,"Professor, IT Management","$105,873.27",$559.79
+Ryerson University,GRAYSON,LINDA,"VP, Administration & Student Affairs","$143,194.57",$884.88
+Ryerson University,JENSEN,KNUD,"Professor, Business Management","$103,332.46",$561.07
+Ryerson University,JOHNSTON,DAVID,"Professor, Interior Design","$106,433.30",$532.40
+Ryerson University,JONES,BRIAN,"Professor, Occupational & Public Health","$112,051.59",$579.71
+Ryerson University,JONES,KENNETH,"Director, CSCA","$116,533.19",$724.94
+Ryerson University,KARIM,SHEIKH,"Professor, Electrical Engineering","$103,024.59",$525.90
+Ryerson University,KEEBLE,JON,"Professor, Radio and Television Arts","$108,037.89",$565.01
+Ryerson University,KILNER,THOMAS,"Professor, Math, Physics & Computer Scienc","$106,216.91",$593.00
+Ryerson University,KURYS,ROBERT,"Professor, Business Management","$104,664.79",$594.98
+Ryerson University,KUSHNIR,VICTOR,"Professor, Math, Physics & Computer Scienc","$120,458.08",$592.62
+Ryerson University,LAJEUNESSE,CLAUDE,President,"$189,171.20","$20,635.18"
+Ryerson University,LAN-HING-FUNG,ALAIN,"Professor, Math, Physics & Computer Scienc","$104,679.79",$555.67
+Ryerson University,LAVERY,ROBERT,"Professor, Math, Physics & Computer Scienc","$105,449.54",$545.83
+Ryerson University,LEA,JOHN,"Professor, Mechanical Engineering","$100,533.47",$599.96
+Ryerson University,LEMIEUX,LARRY,"Assistant Director, IT Support","$106,760.62",$227.80
+Ryerson University,LEMIEUX,RENEE,"Director, Comp & Communications Services","$100,261.66",$641.45
+Ryerson University,LESSER,BRIAN,"Assist. Director, Teaching Tech. Support","$105,345.46",$207.96
+Ryerson University,LEVINE,IRA,"Dean, Faculty Applied Arts","$103,926.54",$661.37
+Ryerson University,LUK,PETER,"Professor, Business Management","$100,264.75",$545.17
+Ryerson University,MACDONALD,PAUL,"Professor, Civil Engineering","$105,658.98",$582.55
+Ryerson University,MAGUIRE,LEE,"Associate Dean, Business Management","$116,779.96",$670.08
+Ryerson University,MALINSKI,RICHARD,"Program Director, Distance Education","$108,098.38",$639.67
+Ryerson University,MASTORAS,ANASTASE,"Professor, Math, Physics & Computer Scienc","$104,443.97",$499.20
+Ryerson University,MCBURNEY,A. MARK,"Professor, Arch. & Landscape Arch.","$102,174.87",$577.35
+Ryerson University,MCKESSOCK,DOUGLAS,"Professor, Business Management","$112,957.89",$562.02
+Ryerson University,MENDELSON,RENA,"Associate Vice President, Academic","$118,456.50",$767.26
+Ryerson University,MOCK,DENNIS,"Vice President, Academic","$147,045.69",$871.50
+Ryerson University,MOSS,RAYMOND,"Professor, Business Management","$107,491.88",$506.51
+Ryerson University,MURPHY,MICHAEL,"Director, Rogers Communications Centre","$103,658.92",$541.59
+Ryerson University,NAGENDRA,BHASKAR,"Professor, Math, Physics & Comp.Sci.","$110,946.93",$590.54
+Ryerson University,NORTHWOOD,DEREK,"Dean, Fac. of Eng. & Applied Sci.","$124,283.37",$791.19
+Ryerson University,O'CONNELL,JOAN,"Professor, IT Management","$105,010.70",$552.01
+Ryerson University,PRABHU,SHIVANANDA,"Professor, Electrical Engineering","$102,848.70",$233.44
+Ryerson University,RADCHENKO,SANDRA,"Professor, App. Chem. & Biological Sci.","$105,778.04",$586.14
+Ryerson University,RADFORD,JACK,"Acting Dean, Faculty of Business","$139,250.01",$95.64
+Ryerson University,RYFF,PETER,"Professor, Electrical Engineering","$108,073.04",$624.17
+Ryerson University,SALVAS,ROLAND,"Chair, Civil Engineering","$104,698.66",$628.16
+Ryerson University,SANDYS,JUDITH,"Dean, Faculty of Community Services","$105,080.10",$670.99
+Ryerson University,SCHLANGER,DAVID,"Professor, Business Management","$104,182.27",$528.22
+Ryerson University,SHONIKER,THOMAS,"Professor, Business Management","$129,867.26",$613.72
+Ryerson University,SLAVINSKI,GEORGE,"Professor, Hospitality & Tourism Mgt","$100,382.85",$592.62
+Ryerson University,SMITH,ALLEN DARRYL,"Professor, Business Management","$116,970.46",$525.90
+Ryerson University,STEWART,MARY,"Professor, Mechanical Engineering","$102,963.04",$480.74
+Ryerson University,STRAHLENDORF,PETER,"Assoc. Prof., Occupational & Public Hlth","$100,330.83",$458.57
+Ryerson University,SWIRSKY,RONALD,"Director, University Planning","$139,249.87",$468.47
+Ryerson University,TOWSLEY,CLARENCE,"Professor, Business Management","$111,286.68",$539.37
+Ryerson University,TRUBIC,JOSEPH,"Professor, Business Management","$107,215.46",$526.00
+Ryerson University,TUSHINGHAM,THOMAS,"Professor, Economics","$101,091.59",$579.71
+Ryerson University,VALIN,EDMOND,Secretary to the Board of Governors,"$108,098.53",$194.22
+Ryerson University,WADE,RICHARD,"Professor, Hospitality & Tourism Mgt","$103,784.49",$618.45
+Ryerson University,WARGO,J. ALAN,"Chair, History","$109,028.57",$630.41
+Ryerson University,WHITWORTH,VIVIENNE,"Professor, App. Chem. & Biol. Science","$109,204.53",$243.55
+Ryerson University,WILSON,PETER,"Professor, Business Management","$104,577.39",$525.90
+Ryerson University,WINTON,JANICE,"Executive Director, Financial Services","$106,238.10",$689.64
 Trent University,BANDYOPADHYAY,PRADEEP,"Full Professor, Sociology","$104,499.66",$360.98
 Trent University,BERRILL,MICHAEL,"Full Professor, Biology","$104,499.84",$360.98
 Trent University,CHAKRAVARTTY,ISWAR,"Full Professor, Mathematics","$104,499.66",$360.98

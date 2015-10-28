@@ -1,11 +1,11 @@
 Employer / Employeur,Surname / Nom de famille,Given Name /Prénom,Position / Poste,Salary Paid /Traitement,Taxable Benefits /Avantages imposables
-Algoma University College,ALLAWAY,THOMAS,Associate Professor,"$105,496.80",$0.00
-Algoma University College,CORY,JENNIFER,Full Professor,"$100,852.55",$0.00
-Algoma University College,DUNNING,JOHN,Associate Professor,"$103,005.33",$0.00
-Algoma University College,GUTH,FRANCIS,Associate Professor,"$104,850.94",$0.00
-Algoma University College,OSEI,WILLIAM,Associate Professor,"$101,560.92",$0.00
-Algoma University College,ROSS,CELIA,President,"$119,033.12",$0.00
-Algoma University College,SORENSON,LINDA,Associate Professor,"$116,817.41",$0.00
+Algoma University,ALLAWAY,THOMAS,Associate Professor,"$105,496.80",$0.00
+Algoma University,CORY,JENNIFER,Full Professor,"$100,852.55",$0.00
+Algoma University,DUNNING,JOHN,Associate Professor,"$103,005.33",$0.00
+Algoma University,GUTH,FRANCIS,Associate Professor,"$104,850.94",$0.00
+Algoma University,OSEI,WILLIAM,Associate Professor,"$101,560.92",$0.00
+Algoma University,ROSS,CELIA,President,"$119,033.12",$0.00
+Algoma University,SORENSON,LINDA,Associate Professor,"$116,817.41",$0.00
 Brock University,ADAMS,LORNE,"Associate Professor, Director of Athletics","$131,241.04",$530.00
 Brock University,ADAMSON,IAN L.,"Associate Professor, Accounting","$126,121.16",$530.00
 Brock University,AMPRIMOZ,ALEXANDRE,"Chair/Professor, Modern Language, Literature & Cultures","$148,953.00",$530.00
@@ -503,37 +503,37 @@ Carleton University,YOUNG,LYNNE,Faculty Member,"$102,931.73",$0.00
 Carleton University,ZACHARKO,ROBERT,Faculty Member,"$106,690.85",$0.00
 Carleton University,ZHANG,QI-JUN,Faculty Member,"$108,211.21",$0.00
 Carleton University,ZHAO,YIQIANG,Faculty Member,"$101,560.91",$0.00
-Huntington University,AITKEN,BRIAN. W.W.,Professor,"$189,155.10",$583.64
-King's University College,BAHCHELI,TOZUN,Faculty,"$125,503.63","$1,011.72"
-King's University College,BRODIE,GILBERT,Faculty,"$124,173.68","$1,011.72"
-King's University College,BROWN,HUNTER,Faculty,"$131,595.03","$1,011.72"
-King's University College,CAMILETTI,SAURO,Associate Dean,"$132,039.59","$5,317.72"
-King's University College,COPPLESTONE,GLEN,Faculty,"$124,598.63","$14,052.72"
-King's University College,CSIERNIK,RICHARD P.,Faculty,"$103,238.60",$994.31
-King's University College,DUTRIZAC,C. DESMOND,Academic Dean,"$141,069.14","$10,244.12"
-King's University College,GORDON,KENNETH,"Director, School of Social Work","$147,778.56","$1,011.72"
-King's University College,GORLICK,CAROLYNE,Faculty,"$105,508.08","$1,011.72"
-King's University College,HAMMOND,BERNARD,Faculty,"$138,963.97","$1,011.72"
-King's University College,HARMAN,LESLEY,Faculty,"$123,886.03","$1,011.72"
-King's University College,HURLEY,DERMOT J.,Faculty,"$117,030.68","$1,011.72"
-King's University College,JARVIS,ERIC,Faculty,"$124,046.07","$1,011.72"
-King's University College,KILLAN,GERALD,Principal,"$181,871.34","$5,654.95"
-King's University College,KOPINAK,KATHRYN,Faculty,"$102,845.47","$1,011.72"
-King's University College,KOSKI,RAIJA,Faculty,"$102,018.78","$1,011.72"
-King's University College,MACGREGOR,DAVID,Faculty,"$108,985.19","$5,363.72"
-King's University College,MAJOR,JEFFREY,Associate/Chief Financial Officer,"$101,753.66","$1,011.72"
-King's University College,MASON,MARILYN,Registrar,"$120,550.70","$1,011.72"
-King's University College,MCKELLAR,KENNETH,Faculty,"$106,296.93","$1,011.72"
-King's University College,MCKERCHER,WILLIAM,Faculty,"$116,117.33","$1,011.72"
-King's University College,MILLER,JOHN,Chief Financial Officer,"$101,097.32",$757.77
-King's University College,ORANGE,JOHN C.,Faculty,"$119,389.76","$1,011.72"
-King's University College,OSBORNE,THEODORE,Faculty,"$133,464.44","$1,011.72"
-King's University College,PATERSON,GARY,Faculty,"$138,132.08","$1,011.72"
-King's University College,POMFRET,ALAN,Faculty,"$136,571.43","$1,011.72"
-King's University College,SKINNER,NICHOLAS,Faculty,"$133,458.93","$1,011.72"
-King's University College,WATTERS,MARY CAROL,"Dean, Students","$119,542.41","$1,011.72"
-King's University College,WEBB,PAUL,Faculty,"$136,328.08","$1,881.12"
-King's University College,WERSTINE,PAUL,Faculty,"$119,348.58","$1,011.72"
+Laurentian University,AITKEN,BRIAN. W.W.,Professor,"$189,155.10",$583.64
+University of Western Ontario,BAHCHELI,TOZUN,Faculty,"$125,503.63","$1,011.72"
+University of Western Ontario,BRODIE,GILBERT,Faculty,"$124,173.68","$1,011.72"
+University of Western Ontario,BROWN,HUNTER,Faculty,"$131,595.03","$1,011.72"
+University of Western Ontario,CAMILETTI,SAURO,Associate Dean,"$132,039.59","$5,317.72"
+University of Western Ontario,COPPLESTONE,GLEN,Faculty,"$124,598.63","$14,052.72"
+University of Western Ontario,CSIERNIK,RICHARD P.,Faculty,"$103,238.60",$994.31
+University of Western Ontario,DUTRIZAC,C. DESMOND,Academic Dean,"$141,069.14","$10,244.12"
+University of Western Ontario,GORDON,KENNETH,"Director, School of Social Work","$147,778.56","$1,011.72"
+University of Western Ontario,GORLICK,CAROLYNE,Faculty,"$105,508.08","$1,011.72"
+University of Western Ontario,HAMMOND,BERNARD,Faculty,"$138,963.97","$1,011.72"
+University of Western Ontario,HARMAN,LESLEY,Faculty,"$123,886.03","$1,011.72"
+University of Western Ontario,HURLEY,DERMOT J.,Faculty,"$117,030.68","$1,011.72"
+University of Western Ontario,JARVIS,ERIC,Faculty,"$124,046.07","$1,011.72"
+University of Western Ontario,KILLAN,GERALD,Principal,"$181,871.34","$5,654.95"
+University of Western Ontario,KOPINAK,KATHRYN,Faculty,"$102,845.47","$1,011.72"
+University of Western Ontario,KOSKI,RAIJA,Faculty,"$102,018.78","$1,011.72"
+University of Western Ontario,MACGREGOR,DAVID,Faculty,"$108,985.19","$5,363.72"
+University of Western Ontario,MAJOR,JEFFREY,Associate/Chief Financial Officer,"$101,753.66","$1,011.72"
+University of Western Ontario,MASON,MARILYN,Registrar,"$120,550.70","$1,011.72"
+University of Western Ontario,MCKELLAR,KENNETH,Faculty,"$106,296.93","$1,011.72"
+University of Western Ontario,MCKERCHER,WILLIAM,Faculty,"$116,117.33","$1,011.72"
+University of Western Ontario,MILLER,JOHN,Chief Financial Officer,"$101,097.32",$757.77
+University of Western Ontario,ORANGE,JOHN C.,Faculty,"$119,389.76","$1,011.72"
+University of Western Ontario,OSBORNE,THEODORE,Faculty,"$133,464.44","$1,011.72"
+University of Western Ontario,PATERSON,GARY,Faculty,"$138,132.08","$1,011.72"
+University of Western Ontario,POMFRET,ALAN,Faculty,"$136,571.43","$1,011.72"
+University of Western Ontario,SKINNER,NICHOLAS,Faculty,"$133,458.93","$1,011.72"
+University of Western Ontario,WATTERS,MARY CAROL,"Dean, Students","$119,542.41","$1,011.72"
+University of Western Ontario,WEBB,PAUL,Faculty,"$136,328.08","$1,881.12"
+University of Western Ontario,WERSTINE,PAUL,Faculty,"$119,348.58","$1,011.72"
 Lakehead University,BAUER,ANTHONY,Associate Professor,"$112,542.51",$857.60
 Lakehead University,BEDARD,MICHEL,Director Master of Public Health,"$104,061.81",$849.02
 Lakehead University,BENSON,MAURICE W.,Professor,"$123,923.79",$857.60
@@ -1470,11 +1470,11 @@ Northern Ontario School of Medicine,TOPPS,MAUREEN,"Associate Dean, Postgraduate 
 Northern Ontario School of Medicine,ULANOVA,MARINA,Associate Professor,"$100,262.04",$497.46
 Northern Ontario School of Medicine,WRIGHT,DOROTHY,Chief Administrative Officer,"$163,427.98",$0.00
 Northern Ontario School of Medicine,ZMIJOWSKYJ,TIM,"Division Head, Clinical Sciences","$215,090.62",$0.00
-Queen's Theo. Col. at Queen's Univ.,BASSER,HERBERT,Professor,"$107,444.96",$355.20
-Queen's Theo. Col. at Queen's Univ.,DICKEY YOUNG,PAMELA,Professor,"$118,440.04",$355.20
-Queen's Theo. Col. at Queen's Univ.,JAMES,WILLIAM,Professor,"$114,765.00",$355.20
-Queen's Theo. Col. at Queen's Univ.,STAIRS,MARJORIE JEAN,Principal,"$114,743.32",$204.28
-Queen's Theo. Col. at Queen's Univ.,VAN DIE,MARGUERITE,Professor,"$104,930.04",$187.04
+Queen's University,BASSER,HERBERT,Professor,"$107,444.96",$355.20
+Queen's University,DICKEY YOUNG,PAMELA,Professor,"$118,440.04",$355.20
+Queen's University,JAMES,WILLIAM,Professor,"$114,765.00",$355.20
+Queen's University,STAIRS,MARJORIE JEAN,Principal,"$114,743.32",$204.28
+Queen's University,VAN DIE,MARGUERITE,Professor,"$104,930.04",$187.04
 Queen's University,AARSSEN,LONNIE WILLIAM,"Professor, Biology","$109,678.03",$355.20
 Queen's University,ABBOTT,MICHAEL G.,"Associate Professor, Economics","$114,944.50",$355.20
 Queen's University,ABOLMAESUMI,PURANG,"Assistant Professor, Computing","$103,120.50",$0.00
@@ -2988,38 +2988,38 @@ University of Guelph,YAP,NONITA,Professor,"$103,661.03",$359.10
 University of Guelph,YOVANOVICH,GORDANA,Professor,"$101,847.80",$528.56
 University of Guelph,YU,ANTHONY,Associate Professor,"$120,566.79",$522.56
 University of Guelph,ZYTNER,RICHARD,Professor & Associate Director,"$116,598.98",$543.10
-University of Ontario Institute of Tech.,ALVI,SHAHID,"Professor, Faculty of Criminology & Justice","$103,916.55",$203.04
-University of Ontario Institute of Tech.,BARTFAY,WALLY,"Associate Professor, Faculty of Health Sciences","$102,007.98",$211.50
-University of Ontario Institute of Tech.,BEREZNAI,GEORGE,"Dean, School Energy Systems & Nuclear","$160,687.98",$302.04
-University of Ontario Institute of Tech.,BORDESSA,RONALD,President,"$112,500.00","$21,569.40"
-University of Ontario Institute of Tech.,BYRNE,CAROLYN,"Dean, Faculty of Health Sciences","$165,328.02","$11,806.38"
-University of Ontario Institute of Tech.,CAMPBELL,BRIAN,"Dean, Graduate Studies","$142,661.52",$272.52
-University of Ontario Institute of Tech.,CHKREBTII,ANATOLI,"Associate Professor, Faculty of Science","$111,353.52",$230.88
-University of Ontario Institute of Tech.,DEKESEREDY,WALTER,"Professor, Faculty of Criminology & Justice","$136,395.48",$282.84
-University of Ontario Institute of Tech.,DINCER,IBRAHIM,"Professor, Faculty of Engineering","$117,230.04",$232.74
-University of Ontario Institute of Tech.,ESMAILZADEH,EBRAHIM,"Professor, Faculty of Engineering","$107,758.50",$223.44
-University of Ontario Institute of Tech.,FRIEDLAN,JOHN,"Associate Professor, Faculty of Business","$153,166.50",$316.20
-University of Ontario Institute of Tech.,GABRIEL,KAMIEL,"Associate Provost, Research","$178,556.04","$3,713.16"
-University of Ontario Institute of Tech.,GRAMI,ALI,"Associate Professor, Faculty of Business","$114,309.48",$237.00
-University of Ontario Institute of Tech.,GREEN,MARK,"Professor, Faculty of Science","$127,138.02",$263.64
-University of Ontario Institute of Tech.,HINCH,RONALD,"Dean, Faculty of Criminology & Justice","$153,636.00",$287.52
-University of Ontario Institute of Tech.,HOLDWAY,DOUGLAS,"Professor, Faculty of Science","$151,726.02",$273.18
-University of Ontario Institute of Tech.,HUNTER,BILL,"Dean, Faculty of Education","$159,640.02",$299.94
-University of Ontario Institute of Tech.,LEMONDE,MANON,"Associate Professor, Faculty of Health Sciences","$110,982.48","$7,542.82"
-University of Ontario Institute of Tech.,MARCEAU,RICHARD,Provost,"$204,487.44","$8,642.70"
-University of Ontario Institute of Tech.,MARTIN,CLEMENS,"Associate Professor, Faculty of Business","$114,021.00",$236.46
-University of Ontario Institute of Tech.,MCGRAW,MARY-JEAN,"Academic Associate, Faculty of Health Sciences","$103,468.02",$202.14
-University of Ontario Institute of Tech.,MUIRHEAD,BILL,"Associate Provost, Teaching & Learning","$136,572.00",$283.20
-University of Ontario Institute of Tech.,NATERER,GREG,"Professor, Faculty of Engineering","$109,700.04",$217.14
-University of Ontario Institute of Tech.,PERRY,BARBARA,"Professor, Faculty Criminology & Justice","$103,210.02",$201.60
-University of Ontario Institute of Tech.,POP-ILIEV,REMON,"Associate Professor, Faculty of Engineering","$111,100.02",$199.26
-University of Ontario Institute of Tech.,ROSEN,MARC,"Dean, Faculty of Engineering","$179,708.04","$11,611.20"
-University of Ontario Institute of Tech.,SANCHEZ,OTTO,"Associate Professor, Faculty of Health Sciences","$112,699.50",$233.64
-University of Ontario Institute of Tech.,SCHELL,BERNIE,"Dean, Faculty of Business & Information Technology","$154,478.52",$289.20
-University of Ontario Institute of Tech.,SMITH,WILLIAM,"Dean, Faculty of Science","$181,434.00",$345.12
-University of Ontario Institute of Tech.,WAKER,ANTHONY,"Professor, School of Energy Systems","$107,058.00",$222.00
-University of Ontario Institute of Tech.,WALLER,EDWARD,"Associate Professor, School of Energy Systems","$123,397.66",$213.90
-University of Ontario Institute of Tech.,WU,TERRY,"Professor, Faculty of Business","$125,635.98",$244.98
+University of Ontario Institute of Technology,ALVI,SHAHID,"Professor, Faculty of Criminology & Justice","$103,916.55",$203.04
+University of Ontario Institute of Technology,BARTFAY,WALLY,"Associate Professor, Faculty of Health Sciences","$102,007.98",$211.50
+University of Ontario Institute of Technology,BEREZNAI,GEORGE,"Dean, School Energy Systems & Nuclear","$160,687.98",$302.04
+University of Ontario Institute of Technology,BORDESSA,RONALD,President,"$112,500.00","$21,569.40"
+University of Ontario Institute of Technology,BYRNE,CAROLYN,"Dean, Faculty of Health Sciences","$165,328.02","$11,806.38"
+University of Ontario Institute of Technology,CAMPBELL,BRIAN,"Dean, Graduate Studies","$142,661.52",$272.52
+University of Ontario Institute of Technology,CHKREBTII,ANATOLI,"Associate Professor, Faculty of Science","$111,353.52",$230.88
+University of Ontario Institute of Technology,DEKESEREDY,WALTER,"Professor, Faculty of Criminology & Justice","$136,395.48",$282.84
+University of Ontario Institute of Technology,DINCER,IBRAHIM,"Professor, Faculty of Engineering","$117,230.04",$232.74
+University of Ontario Institute of Technology,ESMAILZADEH,EBRAHIM,"Professor, Faculty of Engineering","$107,758.50",$223.44
+University of Ontario Institute of Technology,FRIEDLAN,JOHN,"Associate Professor, Faculty of Business","$153,166.50",$316.20
+University of Ontario Institute of Technology,GABRIEL,KAMIEL,"Associate Provost, Research","$178,556.04","$3,713.16"
+University of Ontario Institute of Technology,GRAMI,ALI,"Associate Professor, Faculty of Business","$114,309.48",$237.00
+University of Ontario Institute of Technology,GREEN,MARK,"Professor, Faculty of Science","$127,138.02",$263.64
+University of Ontario Institute of Technology,HINCH,RONALD,"Dean, Faculty of Criminology & Justice","$153,636.00",$287.52
+University of Ontario Institute of Technology,HOLDWAY,DOUGLAS,"Professor, Faculty of Science","$151,726.02",$273.18
+University of Ontario Institute of Technology,HUNTER,BILL,"Dean, Faculty of Education","$159,640.02",$299.94
+University of Ontario Institute of Technology,LEMONDE,MANON,"Associate Professor, Faculty of Health Sciences","$110,982.48","$7,542.82"
+University of Ontario Institute of Technology,MARCEAU,RICHARD,Provost,"$204,487.44","$8,642.70"
+University of Ontario Institute of Technology,MARTIN,CLEMENS,"Associate Professor, Faculty of Business","$114,021.00",$236.46
+University of Ontario Institute of Technology,MCGRAW,MARY-JEAN,"Academic Associate, Faculty of Health Sciences","$103,468.02",$202.14
+University of Ontario Institute of Technology,MUIRHEAD,BILL,"Associate Provost, Teaching & Learning","$136,572.00",$283.20
+University of Ontario Institute of Technology,NATERER,GREG,"Professor, Faculty of Engineering","$109,700.04",$217.14
+University of Ontario Institute of Technology,PERRY,BARBARA,"Professor, Faculty Criminology & Justice","$103,210.02",$201.60
+University of Ontario Institute of Technology,POP-ILIEV,REMON,"Associate Professor, Faculty of Engineering","$111,100.02",$199.26
+University of Ontario Institute of Technology,ROSEN,MARC,"Dean, Faculty of Engineering","$179,708.04","$11,611.20"
+University of Ontario Institute of Technology,SANCHEZ,OTTO,"Associate Professor, Faculty of Health Sciences","$112,699.50",$233.64
+University of Ontario Institute of Technology,SCHELL,BERNIE,"Dean, Faculty of Business & Information Technology","$154,478.52",$289.20
+University of Ontario Institute of Technology,SMITH,WILLIAM,"Dean, Faculty of Science","$181,434.00",$345.12
+University of Ontario Institute of Technology,WAKER,ANTHONY,"Professor, School of Energy Systems","$107,058.00",$222.00
+University of Ontario Institute of Technology,WALLER,EDWARD,"Associate Professor, School of Energy Systems","$123,397.66",$213.90
+University of Ontario Institute of Technology,WU,TERRY,"Professor, Faculty of Business","$125,635.98",$244.98
 University of Ottawa,ABELL,JENNIE,Directrice / Director,"$123,031.44",$68.04
 University of Ottawa,ABOULNASR,TYSEER,Professeur / Professor,"$136,221.20","$3,668.04"
 University of Ottawa,ACOSTA,FERNANDO,Professeur / Professor,"$123,609.52",$68.04
@@ -3670,9 +3670,9 @@ University of Ottawa,ZAREPOUR,MAHMOUD,Professeur / Professor,"$106,756.56",$68.0
 University of Ottawa,ZEGHAL,DANIEL,Professeur / Professor,"$150,354.96",$68.04
 University of Ottawa,ZUSSMAN,DAVID,Professeur / Professor,"$135,224.20",$68.04
 University of Ottawa,ZWEIBEL,ELLEN,Professeur / Professor,"$136,158.56","$2,668.04"
-University of St. Michael's College,BENGTSON,JONATHAN,Chief Librarian,"$102,506.46",$398.46
-University of St. Michael's College,CORMIE,LEROY,Professor,"$115,645.47",$735.72
-University of St. Michael's College,VENTON,PETER,Bursar,"$110,199.80",$681.19
+University of Toronto,BENGTSON,JONATHAN,Chief Librarian,"$102,506.46",$398.46
+University of Toronto,CORMIE,LEROY,Professor,"$115,645.47",$735.72
+University of Toronto,VENTON,PETER,Bursar,"$110,199.80",$681.19
 University of Toronto,AARABI,PARHAM,Professor of Electrical & Computer Engineering,"$147,061.56",$299.04
 University of Toronto,ABBATT,JONATHAN,Professor of Chemistry,"$153,019.44",$709.80
 University of Toronto,ABDELRAHMAN,TAREK,"Professor& Associate Chair, Electronic & Computer Engineering","$177,135.48",$299.04
@@ -6904,18 +6904,18 @@ University of Windsor,YUAN,XIAOBU,Associate Professor,"$101,638.76",$773.92
 University of Windsor,ZAMANI-KASHANI,NADER G.,Professor,"$131,341.62",$874.08
 University of Windsor,ZANUTTO,ROSEMARY J.,"Executive Director, Institutional Analysis","$115,214.29","$3,202.72"
 University of Windsor,ZHENG,MING,"Associate Professor, Chair, Canada Research","$124,016.90",$832.32
-Victoria University,AIRHART,PHYLLIS,Faculty Professor,"$108,032.76",$566.58
-Victoria University,BRANDEIS,ROBERT,Chief Librarian,"$133,899.78",$498.30
-Victoria University,DAVIES,LARRY,Director,"$167,547.96",$597.84
-Victoria University,GOOCH,PAUL,President,"$249,706.86","$1,476.30"
-Victoria University,KEELING,DAVID,Bursar,"$156,054.96",$299.04
-Victoria University,LEGGE,MARILYN,Faculty Professor,"$105,634.32",$336.72
-Victoria University,LENNIE,ANTHONY,Director,"$127,243.08",$497.16
-Victoria University,REDCLIFFE,GARY,Faculty Professor,"$127,089.01",$598.98
-Victoria University,SMITS,ANTHONY,Director,"$107,874.84",$515.46
-Victoria University,VAAGE,LEIF,Faculty Professor,"$107,697.52",$242.52
-Victoria University,WILSON,PAUL,Faculty Professor,"$131,544.47",$615.72
-Victoria University,WYATT,PETER,Principal,"$121,074.54",$578.58
+University of Toronto,AIRHART,PHYLLIS,Faculty Professor,"$108,032.76",$566.58
+University of Toronto,BRANDEIS,ROBERT,Chief Librarian,"$133,899.78",$498.30
+University of Toronto,DAVIES,LARRY,Director,"$167,547.96",$597.84
+University of Toronto,GOOCH,PAUL,President,"$249,706.86","$1,476.30"
+University of Toronto,KEELING,DAVID,Bursar,"$156,054.96",$299.04
+University of Toronto,LEGGE,MARILYN,Faculty Professor,"$105,634.32",$336.72
+University of Toronto,LENNIE,ANTHONY,Director,"$127,243.08",$497.16
+University of Toronto,REDCLIFFE,GARY,Faculty Professor,"$127,089.01",$598.98
+University of Toronto,SMITS,ANTHONY,Director,"$107,874.84",$515.46
+University of Toronto,VAAGE,LEIF,Faculty Professor,"$107,697.52",$242.52
+University of Toronto,WILSON,PAUL,Faculty Professor,"$131,544.47",$615.72
+University of Toronto,WYATT,PETER,Principal,"$121,074.54",$578.58
 Wilfrid Laurier University,ALLAN,LAURA,Faculty Member,"$111,200.34",$385.98
 Wilfrid Laurier University,AMOAKO-ADU,BEN,Faculty Member,"$188,766.86",$634.50
 Wilfrid Laurier University,ARAI,BRUCE,Faculty Member,"$103,452.57",$402.78
