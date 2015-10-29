@@ -1,0 +1,45 @@
+Duplicate entry found in 2002 for Taylor, David W, McMaster University at line num 562
+Duplicate entry found in 2003 for Taylor, David W., McMaster University at line num 780
+Duplicate entry found in 2005 for Baker, Mark, University of Guelph at line num 2265
+Duplicate entry found in 2006 for Currie, David, University of Ottawa at line num 3158
+Duplicate entry found in 2006 for Tremblay, Andr…, University of Ottawa at line num 3617
+Duplicate entry found in 2006 for Anderson, James, University of Toronto at line num 3722
+Duplicate entry found in 2006 for Baker, Robert, University of Toronto at line num 3765
+Duplicate entry found in 2006 for Brown, James, University of Toronto at line num 3887
+Duplicate entry found in 2006 for Ross, John, University of Toronto at line num 5123
+Duplicate entry found in 2007 for Currie, David, University of Ottawa at line num 3877
+Duplicate entry found in 2007 for Tremblay, Andr…, University of Ottawa at line num 4321
+Duplicate entry found in 2007 for Baker, Robert, University of Toronto at line num 4474
+Duplicate entry found in 2007 for Jenkins, Jennifer, University of Toronto at line num 5223
+Duplicate entry found in 2007 for Ellis, Christopher, University of Western Ontario at line num 7271
+Duplicate entry found in 2008 for Currie, David, University of Ottawa at line num 4469
+Duplicate entry found in 2008 for Tremblay, Andr…, University of Ottawa at line num 4950
+Duplicate entry found in 2008 for Li, Hao, University of Toronto at line num 6186
+Duplicate entry found in 2009 for King, Douglas, Carleton University at line num 647
+Duplicate entry found in 2009 for Currie, David, University of Ottawa at line num 5105
+Duplicate entry found in 2009 for Tremblay, Andr…, University of Ottawa at line num 5717
+Duplicate entry found in 2009 for Brown, James, University of Toronto at line num 6067
+Duplicate entry found in 2009 for Jenkins, Jennifer, University of Toronto at line num 6795
+Duplicate entry found in 2009 for Ellis, Christopher, University of Western Ontario at line num 9225
+Duplicate entry found in 2009 for Klassen, Robert, University of Western Ontario at line num 9422
+Duplicate entry found in 2010 for Tremblay, Andr…, University of Ottawa at line num 6248
+Duplicate entry found in 2011 for Tremblay, Andr…, University of Ottawa at line num 6684
+Duplicate entry found in 2011 for Ryall, Michael, University of Toronto at line num 8913
+Duplicate entry found in 2012 for Dean, Andrew, Lakehead University at line num 1352
+Duplicate entry found in 2012 for Woo, Ken, Ryerson University at line num 4933
+Duplicate entry found in 2012 for Walsh, John, University of Guelph at line num 5942
+Duplicate entry found in 2012 for Jenkins, Jennifer, University of Toronto at line num 8391
+Duplicate entry found in 2012 for Ryall, Michael, University of Toronto at line num 9409
+Duplicate entry found in 2013 for Dean, Andrew, Lakehead University at line num 1466
+Duplicate entry found in 2013 for Woo, Ken, Ryerson University at line num 5089
+Duplicate entry found in 2013 for B…Langer, Pierre, University of Ottawa at line num 5423
+Duplicate entry found in 2013 for Jenkins, Jennifer, University of Toronto at line num 8859
+Duplicate entry found in 2013 for Klassen, Robert, University of Western Ontario at line num 12310
+Duplicate entry found in 2014 for Dean, Andrew, Lakehead University at line num 1532
+Duplicate entry found in 2014 for Currie, David, University of Ottawa at line num 6010
+Duplicate entry found in 2014 for Tremblay, Andr…, University of Ottawa at line num 6933
+Duplicate entry found in 2014 for Jenkins, Jennifer, University of Toronto at line num 9397
+Duplicate entry found in 2014 for Lawson, James, University of Toronto at line num 9663
+Duplicate entry found in 2014 for Ryall, Michael, University of Toronto at line num 10534
+Duplicate entry found in 2014 for Wong, Willy, University of Toronto at line num 11156
+Duplicate entry found in 2014 for Klassen, Robert, University of Western Ontario at line num 13037

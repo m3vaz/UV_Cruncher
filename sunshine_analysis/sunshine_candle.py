@@ -1,11 +1,14 @@
 import csv
 import warnings
+from types import MethodType
 
 # if we're not running this as a script and importing it, we want the debug features
 if __name__ != '__main__':
 	debug_mode = True
 else:
 	debug_mode = False
+	
+errorfile = open('sunshine-errors.txt', 'wb')
 
 # The university names are not consistent, so we need to normalize them so we can
 # do the comparison between years
@@ -97,7 +100,7 @@ if debug_mode:
 	new_school_names = []
 	
 for year in range(1996, 2015):
-	with open('originals/'+str(year)+'-sunshine.csv', 'rb') as file, open(str(year)+'-sunshine.csv', 'wb') as fixed_file:
+	with open('originals/'+str(year)+'-sunshine.csv', 'rb') as file, open('normalized/'+str(year)+'-sunshine.csv', 'w+b') as fixed_file:
 	
 		reader = csv.reader(file)
 		writer = csv.writer(fixed_file)
@@ -116,6 +119,9 @@ for year in range(1996, 2015):
 				
 			if name_rep.has_key(row[0]):
 				row[0] = name_rep[row[0]]
+			
+			row[1] = row[1].title()
+			row[2] = row[2].title()
 				
 			if debug_mode and new_school_names.count(row[0]) == 0:
 				new_school_names.append(row[0])
@@ -127,6 +133,103 @@ for year in range(1996, 2015):
 		fixed_file.close()
 		
 
-# School names normalized
+# School names normalized, names normalized
+# file is structured:
+# 	Employer, Surname, Given Name, Position, Salary, Benefits
 # We want to track the progress of people in a single school over the years
 
+# Data is structured list of schools -> school -> list of profs -> data for that specific prof
+# We could probably make this better by indexing in some way, but the data is small enough that it doesn't really matter
+schools = {}
+
+for year in range(1996, 2015):
+	with open('normalized/'+str(year)+'-sunshine.csv', 'rb') as file:
+		
+		reader = csv.reader(file)
+		
+		# read the first header row
+		reader.next() 
+		
+		for row in reader:
+			
+			# add the school if it doesn't exist
+			if not schools.has_key(row[0]):
+				schools[row[0]] = {}
+				
+			school = schools[row[0]]
+			
+			prof_name = (row[1], row[2])
+			if not school.has_key(prof_name):
+				school[prof_name] = {}
+				
+			prof = school[prof_name]
+			
+			if prof.has_key(year):
+				msg = 'Duplicate entry found in '+str(year)+' for ' +row[1]+', '+ row[2]+', '+row[0]+' at line num '+str(reader.line_num)+'\n';
+				errorfile.write(msg)
+				
+			prof[year] = {'salary':row[4], 'benefits':row[5], 'title':row[3], 'lineref':reader.line_num};
+			
+		file.close()
+
+# Done organizing data
+
+for school_name in schools.keys():
+	school = schools[school_name]
+	
+	with open('Complete_Tabulation/'+ school_name.replace(' ', '_') + '.csv', 'w+b') as file:
+		writer = csv.writer(file)
+		
+		header_row = ['Last Name', 'First Name', 'Title']
+		for year in range(1996, 2015):
+			header_row.append(str(year) + ' Salary')
+			header_row.append(str(year) + ' Benefits')
+		
+		rows = []
+		rows.append(header_row)
+		
+		for prof_name in school.keys():
+			to_print = False
+			row = []
+			row.append(prof_name[0])# last name
+			row.append(prof_name[1])# first name
+			
+			prof = school[prof_name]
+						
+			row.append(prof[prof.keys()[-1]]['title']) # get the title in the last year known
+			
+			for year in range(1996, 2015):
+				if year in prof.keys():
+					row.append(prof[year]['salary'])
+					row.append(prof[year]['benefits'])
+					if 'law' in prof[year]['title'].lower():
+						to_print = True
+					
+				else:
+					row.append('-')
+					row.append('-')
+			
+			if to_print:
+				rows.append(row)
+			# end prof tabulation
+		
+		if len(rows)>1:
+			writer.writerows(rows)
+			
+		file.close()
+		# end school tabulation
+		
+# end all schools tabulation
+		
+errorfile.close()
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
